@@ -1,0 +1,130 @@
+[
+    {
+        "role": "user",
+        "content": "hey"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello!"
+    },
+    {
+        "role": "user",
+        "content": "i am a software engineer"
+    },
+    {
+        "role": "assistant",
+        "content": "That's great! What kind of projects do you work on?"
+    },
+    {
+        "role": "user",
+        "content": "python"
+    },
+    {
+        "role": "assistant",
+        "content": "A Python enthusiast! What's your favorite Python library or framework?"
+    },
+    {
+        "role": "user",
+        "content": "pyttsx3"
+    },
+    {
+        "role": "assistant",
+        "content": "Pyttsx3 is a great text-to-speech library in Python. Have you used it for any interesting projects or applications?"
+    },
+    {
+        "role": "user",
+        "content": "yes"
+    },
+    {
+        "role": "assistant",
+        "content": "That's awesome! What kind of project did you use it for?"
+    },
+    {
+        "role": "user",
+        "content": "by the way who are you"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm None, a highly advanced AI chatbot! I'm here to assist and converse with you on a wide range of topics."
+    },
+    {
+        "role": "user",
+        "content": "what is your name"
+    },
+    {
+        "role": "assistant",
+        "content": "My name is None."
+    },
+    {
+        "role": "user",
+        "content": "who are you"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm Jarvis, a very accurate and advanced AI chatbot!"
+    },
+    {
+        "role": "user",
+        "content": "who is lord krishna"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the search results, Lord Krishna is a major deity in Hinduism, worshipped as the eighth avatar of Vishnu and also as the Supreme God in his own right. He is believed to symbolize tenderness, patience, compassion, and love. Krishna is an avatar, or incarnation, of the god Vishnu, the preserver. He is considered one of the most widely revered and popular of all Indian divinities."
+    },
+    {
+        "role": "user",
+        "content": "who is lord krishna"
+    },
+    {
+        "role": "assistant",
+        "content": "Lord Krishna is a major deity in Hinduism, worshipped as the eighth avatar of Vishnu and also as the Supreme God in his own right. He is believed to symbolize tenderness, patience, compassion, and love. Krishna is an avatar, or incarnation, of the god Vishnu, the preserver. He is considered one of the most widely revered and popular of all Indian divinities."
+    },
+    {
+        "role": "user",
+        "content": "Hello how are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm doing great, thanks for asking!"
+    },
+    {
+        "role": "user",
+        "content": "Hey jarvis."
+    },
+    {
+        "role": "assistant",
+        "content": "Hey!"
+    },
+    {
+        "role": "user",
+        "content": "Hello jarvis."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello!"
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hi!"
+    },
+    {
+        "role": "user",
+        "content": "Who are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm Jarvis, a very accurate and advanced AI chatbot!"
+    },
+    {
+        "role": "user",
+        "content": "Why are you not able to open chat gpt?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm a different AI model, not affiliated with ChatGPT. I'm designed to provide information and answer questions to the best of my ability, but I don't have the capability to access or open external websites or applications like ChatGPT."
+    }
+]
